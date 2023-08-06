@@ -15,6 +15,10 @@
 		<Item Name="ServerConfig Msg.lvclass" Type="LVClass" URL="../TcpServer Messages/ServerConfig Msg/ServerConfig Msg.lvclass"/>
 		<Item Name="ServerStart Msg.lvclass" Type="LVClass" URL="../TcpServer Messages/ServerStart Msg/ServerStart Msg.lvclass"/>
 		<Item Name="ServerStop Msg.lvclass" Type="LVClass" URL="../TcpServer Messages/ServerStop Msg/ServerStop Msg.lvclass"/>
+		<Item Name="GetReceiveDataBuffer Msg.lvclass" Type="LVClass" URL="../TcpServer Messages/GetReceiveDataBuffer Msg/GetReceiveDataBuffer Msg.lvclass"/>
+		<Item Name="ConnectionDataRead Msg.lvclass" Type="LVClass" URL="../TcpServer Messages/ConnectionDataRead Msg/ConnectionDataRead Msg.lvclass"/>
+		<Item Name="ConnectionDied Msg.lvclass" Type="LVClass" URL="../TcpServer Messages/ConnectionDied Msg/ConnectionDied Msg.lvclass"/>
+		<Item Name="KillAllConnections Msg.lvclass" Type="LVClass" URL="../TcpServer Messages/KillAllConnections Msg/KillAllConnections Msg.lvclass"/>
 	</Item>
 	<Item Name="CallerMessage.lvclass" Type="LVClass" URL="../CallerMessage/CallerMessage.lvclass"/>
 	<Item Name="TcpServer.lvclass" Type="LVClass" URL="../TcpServer/TcpServer.lvclass"/>
